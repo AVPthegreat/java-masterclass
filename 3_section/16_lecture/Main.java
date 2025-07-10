@@ -4,6 +4,7 @@ public class Main {
         int myVariable = 10;
         System.out.println(myVariable);
         System.out.println("myVariable");
+        System.out.println("myVariable = " + myVariable);
 
     }
 }
