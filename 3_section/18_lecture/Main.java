@@ -15,5 +15,12 @@ public class Main {
         
         System.out.println("Busted Max Integer Value: " + (myMaxIntValue + 1));
         System.out.println("Busted Min Integer Value: " + (myMinIntValue - 1));
+
+        // explained overflow and underflow in integers using variables, limitts of integers, and how to print them with text.
+        // in java integers are 32 bit signed values, which means they can hold values from -2,147,483,648 to 2,147,483,647.
+        // we also learned about how to print variables with text in single print statements.
+        // we can use + operator to concatenate strings and variables in print statements.
+        // in java you cannot print integers with commas, you have to use _ operator to separate thousands, millions, etc.
+ 
     }
 }
