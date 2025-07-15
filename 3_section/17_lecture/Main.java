@@ -7,6 +7,10 @@ public class Main {
         int myTotal = myFirstVariable + mySecondVariable + myThirdVariable;
         System.out.println(myTotal);
         
-        
+        int myLastOne=1000 - myTotal;
+        System.out.println(myLastOne);
+
+        int mysecondlastVariable = 50;
+        System.out.println(mysecondlastVariable*myFirstVariable);
     }
 }
