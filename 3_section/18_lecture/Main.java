@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!, this is 17th lecture of section 3");
+        System.out.println("Hello, World!, this is 18th lecture of section 3");
         int myIntVar = 1000;
         System.out.println(myIntVar);
 
