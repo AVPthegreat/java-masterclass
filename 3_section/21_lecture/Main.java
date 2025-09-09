@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Hello, World!, this is 21st lecture of section 3");
         byte var1=10;
         short var2=20;
-        int var3=30;
+        int var3=50;
         int sum = var1 + var2 + var3;
         long var4 = 50000L + (10 * sum);
         System.out.println("The value of long variable is: " + var4);
