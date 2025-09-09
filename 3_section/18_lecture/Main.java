@@ -9,14 +9,14 @@ public class Main {
         System.out.println("Minimum Integer Value: " + myMinIntValue);
         System.out.println("Maximum Integer Value: " + myMaxIntValue);
 
-        // in this kecture we learn about integer variables and their limits and combining integers and text in single print statements
+        // in this lecture we learn about integer variables and their limits and combining integers and text in single print statements
 
         // below is condition of integer overflow
         
         System.out.println("Busted Max Integer Value: " + (myMaxIntValue + 1));
         System.out.println("Busted Min Integer Value: " + (myMinIntValue - 1));
 
-        // explained overflow and underflow in integers using variables, limitts of integers, and how to print them with text.
+        // explained overflow and underflow in integers using variables, limits of integers, and how to print them with text. 
         // in java integers are 32 bit signed values, which means they can hold values from -2,147,483,648 to 2,147,483,647.
         // we also learned about how to print variables with text in single print statements.
         // we can use + operator to concatenate strings and variables in print statements.
@@ -24,3 +24,5 @@ public class Main {
  
     }
 }
+
+
